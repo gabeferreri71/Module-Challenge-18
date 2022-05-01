@@ -1,4 +1,4 @@
-# Module-Challenge-18: Pychain
+# Module-Challenge-18: Pychain Ledger
 ## Step 1: Create a Record Data Class
 ### We first created a record data class with a sender, receiver, and amount as follows:
  @dataclass
